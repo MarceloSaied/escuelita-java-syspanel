@@ -39,4 +39,20 @@ public class syspanel {
         
 
 	}
+	
+
 }
+
+
+
+
+
+
+//String[] maplecito;
+// maplecito = new String[6];
+
+//int[] maplecito;
+
+
+
+
